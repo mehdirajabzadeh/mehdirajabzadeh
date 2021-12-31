@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehdirajabzadeh
-- 💞️ I’m looking to collaborate on software delopement(web, mobile, ...)
+- 💞️ I’m looking to collaborate on software delopement and programming(web, mobile, ...)
 - 📫 How to reach me: rajabzadeh.ad@gmail.com
 
 <!---
